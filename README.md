@@ -21,6 +21,7 @@ Go ahead and fork this repo, using the "Fork" button at in the top-right corner.
 Check out your fork! At the moment, it's just a copy of the [original repository](https://github.com/PIC16B/git-practice). 
 
 ## 2. Clone
+브렌치 테스트용이다.
 
 You now have a copy of this repository on GitHub. But how can you make changes? It's possible to manually edit files on GitHub, but this is not at all convenient. Instead, you should create a *local clone* of the repository. To do this, hit the big green button and choose Open in GitHub Desktop. Choose to create the repo in a location where you'll easily remember it. 
 
