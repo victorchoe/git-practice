@@ -13,7 +13,7 @@ GitHub is a free online code hosting service that runs using git. We'll use git 
 You should already have made an account on [GitHub](https://github.com/) and downloaded [GitHub Desktop](https://desktop.github.com/). 
 
 ## 1. Fork
-
+두번째 저장용.
 *Forking* refers to the act of creating your personal copy of an existing body of code. You can then modify your *fork* as you wish. Forking is a great way to make use of templates and other resources upon which you can build. For example, you'll soon fork a template for your website, which you'll then populate and customize. 
 
 Go ahead and fork this repo, using the "Fork" button at in the top-right corner. 
@@ -28,10 +28,10 @@ You now have a copy of this repository on GitHub. But how can you make changes? 
 
 In your local clone of the repository, open this file (`README.md`). At the top of the file, underneath the title, type 
 
-> I'm \[your name\] and I edited this file! 
+> I'm \[Ninja\] and I edited this file! 
 
 ## 4. Add and Commit
-
+stage를 켜야 커밋을 할 수 있다.
 Now go over to GitHub Desktop. Observe that the file `README.md` is now listed as changed. If there isn't already a blue checkmark beside the file, click the box to make one. 
 
 Then, add a *commit message* in the box below. The commit message should be a short description of what you achieved with your code modification. For example, a good commit message here might be "Add name to README.md." Once you've entered the commit message, click the big blue Commit button. 
